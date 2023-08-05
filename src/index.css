@@ -1,0 +1,27 @@
+:root {
+  
+  --onecolor:#BAB8B7  ;
+  --twocolor: #1C1928;
+  --threecolor: #505D76;
+  --fourcolor : #729EAA;
+  --fivecolor:#4D76AB;
+  --sixcolor:#35364C;
+  --sevencolor:#6B4844;
+  --eightcolor:#ad382a;
+
+
+  --textfont: 
+  --tittlefont: ;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var();
+}
+
+body{
+ background-color: var(--twocolor);
+}
